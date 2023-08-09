@@ -1,0 +1,19 @@
+.background {
+    height:100%;
+    margin-top: 7%;
+    font-size: 80%;
+    background: linear-gradient(to bottom, #f4f5f2, #14838b);
+    font-family: 'Kanit', sans-serif;
+
+}
+.star-rating {
+    font-size: 24px;
+  }
+  
+  .star-filled {
+    color: gold;
+  }
+  
+  .star-empty {
+    color: #ccc;
+  }

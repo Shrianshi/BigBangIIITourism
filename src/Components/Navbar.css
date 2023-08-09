@@ -1,0 +1,13 @@
+.a{
+    position:absolute;
+    left:1%
+}
+.navbar:focus{
+    background-color: blue;
+}
+@media screen and (max-width: 600px) {
+    .nav-heading{
+        font-size:0%;
+    }
+}
+

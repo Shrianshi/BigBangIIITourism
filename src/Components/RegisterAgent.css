@@ -1,0 +1,11 @@
+.body-agent {
+    background-image: url('../assets/img/Backimage7.jpg'); 
+    /* height:590px; */
+    background-size: 100%;
+    color:white
+   
+}
+.placehold::placeholder{
+    color: rgb(35, 245, 28);
+}
+
